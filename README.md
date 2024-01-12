@@ -19,6 +19,11 @@
 
 
 
+
+## 📰 Social Links
+ - [LinkedIn](https://www.linkedin.com/in/oleksii-hryhorenko/)
+ - [Telegram](https://t.me/alogixx)
+
 ## 🔨 Common Skills
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -57,9 +62,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/> 
-
-<br><br><br>
-
-## 📰 Social links
- - [Linkedin](https://www.linkedin.com/in/oleksii-hryhorenko/)
- - [Telegram](https://t.me/alogixx)
