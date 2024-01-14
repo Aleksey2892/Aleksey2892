@@ -4,7 +4,7 @@
 
 ## 📲 My Links
 
-- 🎨 My latest pet project is [Calendar](https://github.com/Aleksey2892/the_calendar)
+- 🎨 My latest pet project is [Calendar](https://github.com/Aleksey2892/the-calendar_test)
 
 ## 💡 About Me
 
