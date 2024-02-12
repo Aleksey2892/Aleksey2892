@@ -4,7 +4,7 @@
 
 ## 📲 My Links
 
-- 🎨 My latest pet project is [Calendar](https://github.com/Aleksey2892/the-calendar_test)
+- 🎨 My latest pet project is [Calendar](https://github.com/Aleksey2892/the-calendar_test). Also you can see my some another projects:  [XEPPT](https://github.com/Aleksey2892/XEPPT),  [Weather](https://github.com/Aleksey2892/weather-app).
 
 ## 💡 About Me
 
